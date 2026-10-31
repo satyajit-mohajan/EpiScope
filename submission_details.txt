@@ -1,0 +1,24 @@
+Project: EpiScope Sentinel
+Course: CSE 4345 Complex Engineering Assignment
+Institution: Premier University, Chattogram
+
+Group Name / Number: [FRIEND GROUP NAME / NUMBER]
+Member 1 (Name & ID): [FILL]
+Member 2 (Name & ID): [FILL]
+Member 3 (Name & ID): [FILL]
+Member 4 (Name & ID): [FILL IF APPLICABLE]
+GitHub Repository URL: [FRIEND'S OWN GITHUB REPOSITORY URL]
+Shareable Video Presentation URL: 
+
+H1 Source Code: repository URL above (upload extracted content)
+H2 Report: EpiScope_Sentinel_Report.pdf (10 pages)
+H3 Presentation: presentation/EpiScope_Sentinel_Presentation.pptx (10 editable slides)
+H3 Link: record/upload a demo with share access, then fill above
+
+ALL INCLUDED DATA IS SYNTHETIC AND NON-CLINICAL.
+
+Group members and Student IDs (updated):
+Prionti Dey - 0222220005101009
+Satyajit Mohajan - 0222220005101010
+Pranta Chowdhury - 0222220005101011
+Borshan Karmaker - 0222220005101020

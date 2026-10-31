@@ -1,0 +1,10 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.DS_Store
+.env
+data/encounters_demo.csv
+data/encounter_aggregates.csv
+data/etl_work.db

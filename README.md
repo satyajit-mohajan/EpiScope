@@ -80,10 +80,10 @@ python -m pytest -q
 **Observed verification in this build: 12 passed.** Frontend API loading was also checked with scripted, mocked-browser rendering; backend endpoints were tested with FastAPI TestClient.
 
 ## Submission / authorship
-The cover pages intentionally contain `[FRIEND GROUP NAME]`, `[MEMBER / STUDENT ID]`, `[FRIEND GITHUB REPO URL]` and a **blank Video Presentation URL** until the group supplies their information. Do not submit with placeholders. Put this project in the **friend's separate repo**, edit report/slide cover accordingly, and record a truthful demonstration/video that the group can explain.
+The cover pages intentionally contain `[ GROUP NAME]`, `[MEMBER / STUDENT ID]`, `[GITHUB REPO URL]` and a **blank Video Presentation URL** until the group supplies their information. Do not submit with placeholders. Put this project in the **personal separate repo**, edit report/slide cover accordingly, and record a truthful demonstration/video that the group can explain.
 
-- `EpiScope_Sentinel_Friend_Report.pdf` - new 10-page report (also in root ZIP).
-- `presentation/EpiScope_Sentinel_Friend_Presentation.pptx` - new editable 10-slide presentation.
+- `EpiScope_Sentinel_Report.pdf` - new 10-page report (also in root ZIP).
+- `presentation/EpiScope_Sentinel_Presentation.pptx` - new editable 10-slide presentation.
 - `docs/make_report.py` can regenerate the report for supplied cover metadata.
 
 This is a **research/engineering demo, not a production public-health tool**. Protect any future real patient data using authorized sources, ethics approvals, consent/legal basis, encryption, access control and professional validation before any deployment.

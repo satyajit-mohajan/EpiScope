@@ -2,12 +2,12 @@ Project: EpiScope Sentinel
 Course: CSE 4345 Complex Engineering Assignment
 Institution: Premier University, Chattogram
 
-Group Name / Number: [FRIEND GROUP NAME / NUMBER]
+Group Name / Number: [GROUP NAME / NUMBER]
 Member 1 (Name & ID): [FILL]
 Member 2 (Name & ID): [FILL]
 Member 3 (Name & ID): [FILL]
 Member 4 (Name & ID): [FILL IF APPLICABLE]
-GitHub Repository URL: [FRIEND'S OWN GITHUB REPOSITORY URL]
+GitHub Repository URL: [YOUR OWN GITHUB REPOSITORY URL]
 Shareable Video Presentation URL: 
 
 H1 Source Code: repository URL above (upload extracted content)
